@@ -1,4 +1,7 @@
-<h1 align = "center">Hello there, I'm Joshua 🌟</h1>
+<div align="center">
+<h1 >Hello there, I'm Joshua 🌟 </h1> <h2><i>"-καιρός"</i></h2> <h3><i>"It comes not when you want but when it must"</i></h3>
+
+</div>
 
 ## About Me
 - 🧠 <b>Computer Science</b> Student at Laguna State Polytechnic Univesity SPC Campus<br>
@@ -17,8 +20,7 @@ You can find me on these platforms✨<br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Josh45645&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" />
 
-<div align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh45645&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh45645&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 
