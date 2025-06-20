@@ -1,9 +1,10 @@
 <h1 align = "center">Hello there, I'm Joshua 🌟</h1>
-# 💻 About Me:
-🧠 Computer Science Student at Laguna State Polytechnic Univesity SPC Campus<br>
+
+# About Me
+🧠 <b>Computer Science</b> Student at Laguna State Polytechnic Univesity SPC Campus<br>
 💻 I Create and Experiment coding pojects to stay consistent and learn<br>
-🤖 Have strong intesest in A.I, Machine Learning and Robotics<br>
-📖 I make documents and contribute on creating learning sources in coding and other related topics<br>
+🤖 Have strong intesest in <b>A.I, Machine Learning and Robotics</b><br>
+📖 I make <b>documents and contribute on creating learning sources</b> about <b>coding</b> and other related topics<br>
 <br>
 You can find me on these platforms✨<br>
 [Instagram](https://www.instagram.com/dr.j0sh/profilecard/?igsh=MXNxdGY1Nml6OHRxeA==)&nbsp;&nbsp;&nbsp;[Facebook](https://web.facebook.com/joshua.bartolome.906)&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/joshua-bartolome-520b6132a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
