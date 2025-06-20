@@ -17,7 +17,7 @@ You can find me on these platforms✨<br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Josh45645&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh45645&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<div align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh45645&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></div>
 
 </div>
 
