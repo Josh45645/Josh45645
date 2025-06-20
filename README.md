@@ -1,5 +1,5 @@
 <h1 align = "center">Hello there, I'm Joshua 🌟</h1>
-
+# 💻 About Me:
 🧠 Computer Science Student at Laguna State Polytechnic Univesity SPC Campus<br>
 💻 I Create and Experiment coding pojects to stay consistent and learn<br>
 🤖 Have strong intesest in A.I, Machine Learning and Robotics<br>
